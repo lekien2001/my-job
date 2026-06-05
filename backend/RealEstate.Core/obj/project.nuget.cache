@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RESsf2Go7A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\my-job\\backend\\RealEstate.Core\\RealEstate.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\bin\Debug\net10.0\RealEstate.Core.deps.json
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\bin\Debug\net10.0\RealEstate.Core.dll
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\bin\Debug\net10.0\RealEstate.Core.pdb
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.sourcelink.json
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.dll
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\refint\RealEstate.Core.dll
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\RealEstate.Core.pdb
+C:\Users\Admin\Documents\my-job\backend\RealEstate.Core\obj\Debug\net10.0\ref\RealEstate.Core.dll
